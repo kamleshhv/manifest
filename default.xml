@@ -1405,4 +1405,5 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/blaze-extra.xml" />
   <include name="snippets/blaze.xml" />
+  <include name="snippets/device.xml" />
 </manifest>

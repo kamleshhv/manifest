@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- GitHub -->
+  <remote  name="hub"
+           fetch="https://github.com/"
+           />
+  <remote  name="git"
+           fetch="https://github.com/PixelOS-Devices"
+           revision='14' />
+  <remote  name="lab"
+           fetch="https://gitlab.com/"
+           />
+  
+   <project path="device/xiaomi/sweet" name="kamleshhv/device_xiaomi_sweet" revision="U" remote="hub" />
+   <project path="vendor/xiaomi/sweet" name="omnitrix21/vendor_xiaomi_sweet" revision="U" remote="hub" />
+   <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sm6150" revision="fourteen" remote="git" />
+   <project path="hardware/dolby" name="Virtualord/hardware-dolby" revision="14" remote="hub" />
+   <project path="vendor/xiaomi/sweett-miuicamera" name="mrfox2003/sweet-miuicamera" revision="U" remote="lab" />
+</manifest>
