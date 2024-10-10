@@ -14,7 +14,7 @@
   
    <project path="device/xiaomi/sweet" name="kamleshhv/device_xiaomi_sweet" revision="U" remote="hub" />
    <project path="vendor/xiaomi/sweet" name="omnitrix21/vendor_xiaomi_sweet" revision="U" remote="hub" />
-   <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sm6150" revision="fourteen" remote="git" />
+   <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sm6150" revision="fourteen" remote="git" clone-depth="1" />
    <project path="hardware/dolby" name="Virtualord/hardware-dolby" revision="14" remote="hub" />
-   <project path="vendor/xiaomi/sweett-miuicamera" name="mrfox2003/sweet-miuicamera" revision="U" remote="lab" />
+   <project path="vendor/xiaomi/sweet-miuicamera" name="mrfox2003/sweet-miuicamera" revision="U" remote="lab" />
 </manifest>
