@@ -1406,4 +1406,5 @@
   <include name="snippets/blaze-extra.xml" />
   <include name="snippets/blaze.xml" />
   <include name="snippets/device.xml" />
+  <include name="snippets/sweet2.xml" />
 </manifest>
